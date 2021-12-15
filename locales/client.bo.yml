@@ -1,4 +1,4 @@
-en:
+bo:
   js:
     number:
       format:
@@ -2229,7 +2229,7 @@ en:
           label: Toggle whisper
           desc: Whispers are only visible to staff members
         create_topic:
-          label: "New Topic"
+          label: "བརྗོད་གཞི་གསར་པ།"
         shared_draft:
           label: "Shared Draft"
           desc: "Draft a topic that will only be visible to allowed users"
@@ -2333,7 +2333,7 @@ en:
         invited_to_topic: "invited to topic"
         group_mentioned: "group mentioned"
         group_message_summary: "new group messages"
-        watching_first_post: "new topic"
+        watching_first_post: "བརྗོད་གཞི་གསར་པ།"
         topic_reminder: "topic reminder"
         liked_consolidated: "new likes"
         post_approved: "post approved"
@@ -2560,7 +2560,7 @@ en:
       filter_to:
         one: "%{count} post in topic"
         other: "%{count} posts in topic"
-      create: "New Topic"
+      create: "བརྗོད་གཞི་གསར་པ།"
       create_long: "Create a new Topic"
       open_draft: "Open Draft"
       private_message: "Start a message"
@@ -2578,7 +2578,7 @@ en:
         title: "Defer"
 
       list: "Topics"
-      new: "new topic"
+      new: "བརྗོད་གཞི་གསར་པ།"
       unread: "unread"
       new_topics:
         one: "%{count} new topic"
@@ -2943,7 +2943,7 @@ en:
         title: "Move to New Topic"
         action: "move to new topic"
         topic_name: "New Topic Title"
-        radio_label: "New Topic"
+        radio_label: "བརྗོད་གཞི་གསར་པ།"
         error: "There was an error moving posts to the new topic."
         instructions:
           one: "You are about to create a new topic and populate it with the post you've selected."
